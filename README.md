@@ -1,5 +1,8 @@
 # README
 
+## Installation
+https://wails.io/docs/gettingstarted/installation
+
 ## About
 
 This is the official Wails React-TS template.
